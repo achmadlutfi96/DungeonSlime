@@ -1,0 +1,12 @@
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.deps.json
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.dll
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.pdb
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.AssemblyReference.cache
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfoInputs.cache
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfo.cs
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.dll
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\refint\MonoGameLibrary.dll
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.pdb
+f:\Belajar-Monogame\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\ref\MonoGameLibrary.dll
