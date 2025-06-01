@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Belajar-Monogame\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
+    "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
   },
   "projects": {
-    "F:\\Belajar-Monogame\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Belajar-Monogame\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "F:\\Belajar-Monogame\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
-        "packagesPath": "C:\\Users\\alhac\\.nuget\\packages\\",
-        "outputPath": "F:\\Belajar-Monogame\\DungeonSlime\\MonoGameLibrary\\obj\\",
+        "projectPath": "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Users\\alhac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alhac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Users\\alhac\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
