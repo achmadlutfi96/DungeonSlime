@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
+    "c:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
   },
   "projects": {
-    "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "c:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "c:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectPath": "c:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\obj\\",
+        "outputPath": "c:\\DATA 2\\Belajar-Monogame-Framework\\DungeonSlime\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

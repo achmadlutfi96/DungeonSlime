@@ -28,3 +28,34 @@ f:\Belajar-Monogame\DungeonSlime\DungeonSlime\bin\Debug\net8.0\MonoGameLibrary.p
 f:\Belajar-Monogame\DungeonSlime\DungeonSlime\bin\Debug\net8.0\Content\images\logo.xnb
 f:\Belajar-Monogame\DungeonSlime\DungeonSlime\bin\Debug\net8.0\Content\images\atlas.xnb
 f:\Belajar-Monogame\DungeonSlime\DungeonSlime\bin\Debug\net8.0\Content\images\atlas-definition.xml
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\Content\images\atlas-definition.xml
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\Content\images\atlas.xnb
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\Content\images\logo.xnb
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\DungeonSlime.exe
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\DungeonSlime.deps.json
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\DungeonSlime.runtimeconfig.json
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\DungeonSlime.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\DungeonSlime.pdb
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\MonoGame.Framework.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\NVorbis.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\MonoGameLibrary.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\bin\Debug\net8.0\MonoGameLibrary.pdb
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.csproj.AssemblyReference.cache
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.AssemblyInfoInputs.cache
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.AssemblyInfo.cs
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.csproj.CoreCompileInputs.cache
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.sourcelink.json
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonS.106F46AA.Up2Date
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\refint\DungeonSlime.dll
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.pdb
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\DungeonSlime.genruntimeconfig.cache
+c:\DATA 2\Belajar-Monogame-Framework\DungeonSlime\DungeonSlime\obj\Debug\net8.0\ref\DungeonSlime.dll
